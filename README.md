@@ -36,6 +36,7 @@ This installs everything listed in package.json.
 Create a .env file in the project root (same place as package.json) and add your MongoDB URL:
 
 MONGODB_URL=mongodb+srv://chatterjeeswastik022:Swastik2004@cluster0.0smcq.mongodb.net/
+
 PORT=5000
 
 Make sure to replace the MongoDB URL with your own (whether it's from Atlas or your local MongoDB).
